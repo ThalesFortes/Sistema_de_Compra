@@ -1,6 +1,6 @@
 # 🛒 Sistema de Compras
 
-> Aplicação de console em Java que simula um sistema de compras com clientes, cartões de crédito e controle de limite — construída para estudar e praticar **Programação Orientada a Objetos** na prática.
+> Aplicação de console em Java que simula um sistema de compras com clientes, cartões de crédito e controle de limite  construída para estudar e praticar **Programação Orientada a Objetos** na prática.
 
 ---
 
